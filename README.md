@@ -1,4 +1,4 @@
-Kinematic Calibration
+# Kinematic Calibration
 
 Automatic calibration algorithm to determine the kinematic model of any serial manipulator. A method based on circle fitting and dual vector geometry is included to determine the Classic Denavit-Hartenberg parameters for a serial manipulator.
 
